@@ -1,2 +1,2 @@
 # Ariana_Alas_Portfolio
-Portfolio of Ariana Alas for CS105
+Portfolio of Ariana Alas
