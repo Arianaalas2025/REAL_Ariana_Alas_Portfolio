@@ -15,15 +15,15 @@ Loyola University Maryland
 ### Projects
 
 #### Coded Personality Quiz
-- ![Image](link-to-//.)
-- [Read the Report](link-to-report)
+- ![Image]
+- Project Wrtie UP
 
 ***
 #### Project 2 Title
-- ![Image](link-to-image)
+- ![Image]
 - Write-up here
 
 ***
 #### Project 3 Title
-- ![Image](link-to-image)
+- ![Image]
 - Write-up here
