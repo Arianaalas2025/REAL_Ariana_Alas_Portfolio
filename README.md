@@ -1,8 +1,7 @@
-# REAL_Ariana_Alas_Portfolio
+Ariana Alas' Portfolio
 Portfolio of Ariana Alas 
-# Ariana_Alas_Portfolio
+# Ariana Alas Portfolio
 Portfolio of Ariana Alas
-# First Name Last Name
 Ariana Alas
 
 ### About Me
