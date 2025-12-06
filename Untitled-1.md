@@ -1,4 +1,4 @@
-title: FirstName LastName
+title: Ariana Alas
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
