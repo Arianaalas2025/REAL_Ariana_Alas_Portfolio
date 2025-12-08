@@ -22,9 +22,9 @@ Loyola University Maryland
 -Summery: In the assigned project we were expected to 
 
 ***
-#### Project 2 Title
+#### Job Application Tracker
 -Job Application Tracker
-- ![Job Application Tracker][def2]
+- ![Assests/Screenshot 2025-12-05 133117.png}
 - Write-up here
 
 ***
@@ -33,6 +33,3 @@ Loyola University Maryland
 - ![Inventory Chart][def]
 - Write-up here
 
-[def]: https://studentsloyola-my.sharepoint.com/:x:/g/personal/aalas_loyola_edu/IQBcfVquJQCFS4N-djxje_9NAeQOZalUT_PYjDU7Gd2Cg68?e=X49S1S
-[def2]: https://studentsloyola-my.sharepoint.com/:x:/g/personal/aalas_loyola_edu/IQBcfVquJQCFS4N-djxje_9NAeQOZalUT_PYjDU7Gd2Cg68?e=4ElhfL
-[def3]: https://onlinegdb.com/xx61tLxgF
