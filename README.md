@@ -17,7 +17,7 @@ Loyola University Maryland
 
 #### Coded Personality Quiz
 - Personality Quiz on GDP
-- ![Personality Quiz]
+- ![Personality Quiz](Assests/Screenshot 2025-12-08 104139.png)
 - I came up with this idea for our project by thinking of fun personality quizes i have taken and decidied to put my own twist to it to include my favorite movies, desserts, hobbies, and topics. A lot of people would want to know how they are as a person from a third person point of view so I set myself to solve this by creating fun yet complex questions that determine a personality type based of the answers. I though it would be fun to solve what others were curious about. To complete this project I used onlineGDP for coding, creative thinking skills, and others opinions on the questions. I set out to achieve a quiz that was easy to do and also gave accurate results based off the answers. I did achieve it, but one thing I would change is the aesthetic of it, to make it more welcoming. 
 -Summary: In the assigned project we were expected to use our creativity to code our own personality quiz as seen on Buzzfeed! We were assigned to come up with ten questions with four different possible answers, that added up to numbers, and to come up with four different personality types as possible answers depending on what their answers added up to. I really enjoyed creating this project.
 Link To project**[Personality Quiz](https://onlinegdb.com/DMDket274)**
