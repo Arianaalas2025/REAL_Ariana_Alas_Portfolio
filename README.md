@@ -3,7 +3,7 @@ Portfolio of Ariana Alas
 # Ariana Alas Portfolio
 Portfolio of Ariana Alas
 Ariana Alas
-![Banner Pic](Assests/IMG_7633.JPG)
+![Banner Pic](Assests/bannerpic.jpg)
 ### About Me
 Hello! I am Political Analysist and a Political Science professional with over 4 years of proven expertise in social data and marginalized populations. With skills in Softwares (eg. Excel, Python, and Access), Leadership, and Analytics, I am able to effeciently analyze numerous amounts of social science data and achieve accurate statistics and numbers. I am adept to using Excel, Statistical Mathmatics, and Python3.
 My productive skill set, commitment to effectiveness, and passion for democratic society marks me as a valuable asset. In my spare time, I like to read and travel abroad. 
